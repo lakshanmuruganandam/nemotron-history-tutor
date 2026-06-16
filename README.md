@@ -60,3 +60,8 @@ python app.py
   <b>Built by:</b> <a href="https://huggingface.co/LADDOO22212015">LADDOO22212015</a><br>
   <i>Forging the absolute future of open-source autonomous agents.</i>
 </div>
+
+
+### 🧠 Preferred Models
+> - `nvidia/Nemotron-4-340B-Instruct` — Enterprise-grade instruction following and reasoning.
+> - `mistralai/Mistral-7B-Instruct-v0.3` — Fast, high-quality text generation for content creation.
